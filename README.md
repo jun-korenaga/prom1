@@ -13,4 +13,7 @@ described above.
 Data files:
 normal_sa_depth_hist.dat contains age-depth relative freqency, and 
 hf_quartile_filHFnormal.dat contains age-heat flow data in terms of quartiles. 
+lister_nagihara.dat contains the data of Lister et al. (GJI, 1990) and Nagihara et al. (EPSL, 1996)
+that are located on the normal seafloor.
+
 These data are compiled as described in Korenaga et al. (JGR, 2021). 
