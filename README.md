@@ -18,3 +18,8 @@ normal_sa_depth_hist.dat contains age-depth relative freqency, and
 hf_quartile_filHFnormal.dat contains age-heat flow data in terms of quartiles. 
 lister_nagihara.dat contains the data of Lister et al. (GJI, 1990) and Nagihara et al. (EPSL, 1996)
 that are located on the normal seafloor. These data are compiled as described in Korenaga et al. (JGR, 2021). 
+
+Sample output files:
+ref_d_q.dat contains age (Ma), seafloor depth (m), and heat flow (mW/m^2), for 0-180 Ma with an increment of 1 Ma. 
+ref_T.dat contains age (Ma), depth (km), and temperature (K) for 0-180 Ma with an increment of 1 Ma and 0-300 km with an increment of 1 km. 
+These are created by running plot_refmodel1.m. 
