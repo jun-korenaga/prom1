@@ -1,5 +1,5 @@
 # prom1
-This repository contains MATLAB and Python scripts for the reference model of Korenaga et al. (JGR, 2021) and related files. 
+This repository contains MATLAB and Python scripts for the reference model "PROM1" (Physics-based Reference for Oceanic Mantle, version 1) of Korenaga et al. (JGR, 2021) and related files. 
 
 **MATLAB**:
 "plot_refmodel.m" & "plot_refmodel2.m" are sample scripts to show how to use a function calc_refmodel() contained
